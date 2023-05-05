@@ -29,7 +29,7 @@ const Question = () => {
               <span className='text-3xl text-red-800'>19:00</span>
             </div>
           </div>
-            <p className='w-2/3 md:w-1/2 mx-auto border border-red-900 p-2 my-2 rounded-lg'>+8801860239857</p>
+            <p className='w-2/3 md:w-1/2 mx-auto border border-red-900 p-2 my-2 rounded-lg'>+8801860239867</p>
         </h2>
       </div>
     </div>
